@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Yogesh+Adhikari;Full-Stack+Developer;Exploring+Generative+AI+%26+RAG;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Yogesh+Adhikari;Full-Stack+Developer;Gen+AI+%26+RAG;400++LeetCode" alt="Typing SVG" />
 </p>
 
 # Hi, I'm Yogesh Adhikari(and I can code)
