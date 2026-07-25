@@ -8,7 +8,7 @@
 ## About Me
 - B.Tech Student
 - Full-Stack (MERN) Developer
-- Exploring Generative AI, RAG & LLMs
+- Generative AI, RAG & LLMs
 - Solved **400+ DSA** problems
 - **1500+** Coding Rating
 
@@ -16,13 +16,6 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,mongodb,git,vscode" />
-</p>
-
-## GitHub Stats
-
-<p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yogesh-1209&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-1209&layout=compact&theme=tokyonight" />
 </p>
 
 ## Featured Project
